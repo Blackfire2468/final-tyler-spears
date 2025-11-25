@@ -2,7 +2,7 @@ baseURL = "https://example.com"
 languageCode = "en" # <html lang> ==> data/l10n.toml
 title = "CSC Final" # Website Title
 copyright = "Tyler Spears" # Footer copyright.
-theme = "vortisil"
+theme = "vortisil-trunk"
 pagination.pagerSize = 9
 hasCJKLanguage = true
 enableEmoji = true
