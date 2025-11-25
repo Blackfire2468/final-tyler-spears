@@ -1,0 +1,108 @@
+{{ define "main" }}
+
+<!-- Back to Blogs at top -->
+<div class="header-wrapper">
+    <a href="/blogs/" class="btn back-btn">← Back to Blogs</a>
+    </div>
+</br>
+    <div>
+   <h1>{{ .Title }}</h1>
+</div>
+
+
+
+<!-- Blog content -->
+<div class="blog-content">
+    {{ .Content }}
+</div>
+
+<!-- Floating Back to Top -->
+<button id="back-to-top" title="Back to Top">↑</button>
+
+<!-- CSS -->
+<style>
+/* Header + Back button */
+.blog-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+.blog-header .back-btn {
+    padding: 8px 14px;
+    background-color: #2a6b6b;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 0.9rem;
+}
+.blog-header .back-btn:hover {
+    background-color: #1f4c4c;
+}
+
+/* Blog content wrapper */
+.blog-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+.blog-content img,
+.blog-content video,
+.blog-content iframe {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.blog-content pre {
+    overflow-x: auto;
+}
+
+/* Floating Back to Top button */
+#back-to-top {
+    display: none; /* Hidden by default */
+    position: fixed; /* FLOATING */
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+    padding: 12px 16px;
+    font-size: 18px;
+    background-color: #2a6b6b;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+#back-to-top:hover {
+    background-color: #1f4c4c;
+    transform: scale(1.1);
+}
+</style>
+
+<!-- JS -->
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    const backBtn = document.getElementById("back-to-top");
+
+    window.addEventListener("scroll", () => {
+        if (window.scrollY > 200) {
+            backBtn.style.display = "block";
+        } else {
+            backBtn.style.display = "none";
+        }
+    });
+
+    backBtn.addEventListener("click", () => {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    });
+});
+</script>
+
+{{ end }}

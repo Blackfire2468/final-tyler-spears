@@ -1,0 +1,38 @@
+.blogs h1 {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.blogs-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.blog-card {
+  background: #f9f9f9;
+  border-radius: 8px;
+  padding: 1rem;
+  width: 300px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.blog-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.blog-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.blog-card p {
+  margin: 0.5rem 0;
+}
+
+.blog-card small {
+  color: #666;
+}

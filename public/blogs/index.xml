@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on CSC Final</title>
+    <link>http://localhost:1313/blogs/</link>
+    <description>Recent content in Blogs on CSC Final</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Tyler Spears</copyright>
+    <lastBuildDate>Thu, 20 Nov 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Review of George Michael Concert</title>
+      <link>http://localhost:1313/blogs/blog7/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blog7/</guid>
+      <description>Want to hear about the life of music.</description>
+    </item>
+    <item>
+      <title>An Unfinished Story</title>
+      <link>http://localhost:1313/blogs/blog9/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blog9/</guid>
+      <description>Getting board read a story if you want.</description>
+    </item>
+    <item>
+      <title>Communication</title>
+      <link>http://localhost:1313/blogs/blog5/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blog5/</guid>
+      <description>whats better then talking it out.</description>
+    </item>
+    <item>
+      <title>Comparing Hamlet</title>
+      <link>http://localhost:1313/blogs/blog3/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blog3/</guid>
+      <description>A review of hamlet the movie.</description>
+    </item>
+    <item>
+      <title>Easter 1916, Yeats Paper</title>
+      <link>http://localhost:1313/blogs/blog4/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blog4/</guid>
+      <description>A review of a paper by the writer Yeats.</description>
+    </item>
+    <item>
+      <title>The Bean Counting Problem</title>
+      <link>http://localhost:1313/blogs/blog1/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blog1/</guid>
+      <description>Going over a chapter 3 homework problem.</description>
+    </item>
+    <item>
+      <title>The Chess Board Problem</title>
+      <link>http://localhost:1313/blogs/blog2/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blog2/</guid>
+      <description>Going over a chapter 2 homework problem.</description>
+    </item>
+    <item>
+      <title>The Thoughts of Human Nature</title>
+      <link>http://localhost:1313/blogs/blog10/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blog10/</guid>
+      <description>Are people naturally good or bad find out here.</description>
+    </item>
+    <item>
+      <title>The Trolly Problem</title>
+      <link>http://localhost:1313/blogs/blog6/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blog6/</guid>
+      <description>Problem come left and right what will you choose.</description>
+    </item>
+    <item>
+      <title>The UK Global Gala</title>
+      <link>http://localhost:1313/blogs/blog8/</link>
+      <pubDate>Thu, 20 Nov 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/blog8/</guid>
+      <description>Hear the thoughts of the Global Gala Concert.</description>
+    </item>
+  </channel>
+</rss>

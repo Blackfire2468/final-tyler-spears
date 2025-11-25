@@ -1,0 +1,74 @@
+baseURL = "https://example.com"
+languageCode = "en" # <html lang> ==> data/l10n.toml
+title = "CSC Final" # Website Title
+copyright = "Tyler Spears" # Footer copyright.
+theme = "vortisil"
+pagination.pagerSize = 9
+hasCJKLanguage = true
+enableEmoji = true
+disableKinds = ["taxonomy","term"] # DO NOT MODIFY
+
+[params]
+    author = "Tyler Spears" # Author name of the article.
+    logoImg = false # If false, the site title will display.
+    logoInvert = true # If the image logo needs to be turned on Image Colour Inversion.
+    math = true
+  customCSS = ["css/custom.css"]
+
+
+[params.comments]
+    enabled = true
+    
+[params.comments.giscus]
+    repo = "username/reponame"
+    repoId = "repoid"
+    category = "Announcements"
+    categoryId = "categoryId"
+    mapping = "pathname"
+    lang = "en"
+
+[params.meta]
+    description = "just a college student." # Site description
+
+
+[[menus.main]]
+    identifier = "home"
+    url = "/"
+    weight = 1
+
+[[menus.main]]
+    identifier = "about"
+    url = "/about"
+    weight = 2
+
+[[menus.main]]
+    identifier = "articles"
+    name = "Articles"
+    url = "/articles"
+    weight = 3
+
+[[menus.main]]
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/blogs"
+    weight = 4
+
+
+[module]
+    [module.hugoVersion]
+        extended = true
+        min = "0.116.0"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+    [markup.highlight]
+        style = "evergarden"
+        tabWidth = 4
+        codeFences = true
+        guessSyntax = true
+
+[outputs]
+    home = ["HTML", "JSON"]
