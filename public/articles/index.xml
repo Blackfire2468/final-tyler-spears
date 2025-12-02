@@ -16,13 +16,6 @@
       <description>want to know more about how this site looks and what makes it look good then read it here.</description>
     </item>
     <item>
-      <title>My First Article</title>
-      <link>http://localhost:1313/articles/page1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/articles/page1/</guid>
-      <description>Short description here.</description>
-    </item>
-    <item>
       <title>My First article Post</title>
       <link>http://localhost:1313/articles/page2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,6 +28,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/articles/page4/</guid>
       <description>Will AI take over and how much did it do all right here.</description>
+    </item>
+    <item>
+      <title>What Rocket League Has Become</title>
+      <link>http://localhost:1313/articles/page1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/page1/</guid>
+      <description>This is based off one of my favorite games to play.</description>
     </item>
   </channel>
 </rss>
