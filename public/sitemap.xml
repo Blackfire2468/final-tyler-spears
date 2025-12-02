@@ -46,10 +46,10 @@
   </url><url>
     <loc>http://localhost:1313/articles/page3/</loc>
   </url><url>
-    <loc>http://localhost:1313/articles/page1/</loc>
-  </url><url>
     <loc>http://localhost:1313/articles/page2/</loc>
   </url><url>
     <loc>http://localhost:1313/articles/page4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articles/page1/</loc>
   </url>
 </urlset>
