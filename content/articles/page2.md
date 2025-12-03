@@ -1,5 +1,15 @@
 +++
-title = "My First article Post"
-categories = ["Tech"]
-summary = "A short description of my first blog post."
+title = "The Art of an Artist"
+categories = ["Art","Critque"]
+summary = "The Artwork Done Over a Semester"
 +++
+
+
+
+In this article I am going to talk about my personal experience with some of my works and how I developed them and my overall feel about them. Art is very hard to do sometimes and even when you love to do it the motivation to do certain works of art becomes very difficult. You have to be in the right mindset to do work but there are a few that I have made this semester.
+
+Most of these are from the same class which is my topic in art studio class. The first thing that i made is this little red book that is called momento vivive which means remember to live this book takes it the depth thought of time and how it corrodes things over time this book consist of a flip book type style for the first part as you can see a candle that is burning down until it is fully burnt out but then there's also a clock that appears every five pages that shows the time passing. Then there is the sun rising and setting as it goes from morning to night. This can create a sense of mortality and how time can take over us. The next set of scenes is like a blood coming down from the top and how it flows this makes a horror type of scene for the viewer then there comes the call of death at the end this book shows images of an hourglass, a skull, some chains, and finally like the spirit of someone then the end of the book the last page it says memento mori which means remember you death. Now my thoughts for this book. There are many things that I could have done better for this book but overall I like how it looks. It gives the feel that I want the book to have and it shows the passage of time well. I like how the book remains small so that it can be handheld easily. 
+
+The next project i did was making a book that was called away this book was about the overall process of moving and losing things in this book there were pictures taken about the house and how it gets further and further away and how you slowly begin to lose people then how it slowly spirals out of control and away from your hands and control. Then there is a shift in the story where you find the thing that brings you back whether it be a person or a thing that brings you back to sanity that's what this book conveys. Once you have found that thing the book regains order and control and how everything starts to look perfect. The book is copic stitched together and also has a string that connects each page together. This string is loose enough that it allows you to turn the page but tight enough that it also pulls the next page pulling you though the book and onto the next page. This book was one of my favorites that i did and it represents a lot about me as you can feel the stress that remains in the book. 
+
+The last project that i did was i made a scroll for this we had to do something that connected to family in some way. So I called it a “scroll through time” . This scroll was made using a lathe and wood for the handle while the other part was paper. This was probably one of my simplest projects. The paper was dyed in a gradient so that that the end closer to the scroll looked older and it represents how someone adds on to the family over time as each generation adds onto the scroll and that even though you may not know your full family or history they still took part in order to get you where you have become. I think that the simplicity of this scroll makes it easy to follow and look better.

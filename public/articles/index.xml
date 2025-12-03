@@ -16,11 +16,11 @@
       <description>want to know more about how this site looks and what makes it look good then read it here.</description>
     </item>
     <item>
-      <title>My First article Post</title>
+      <title>The Art of an Artist</title>
       <link>http://localhost:1313/articles/page2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/articles/page2/</guid>
-      <description>A short description of my first blog post.</description>
+      <description>The Artwork Done Over a Semester</description>
     </item>
     <item>
       <title>The Use of AI</title>
